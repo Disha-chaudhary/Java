@@ -12,5 +12,10 @@ public class reversearraylist {
         for(int i=n-1;i>=0;i--){
             System.out.print(l1.get(i)+" ");
         }
-            }
+        //FOR SORTING AN ARRAYLIST WE CAN USE Collections.sort(listname)
+        //THIS WILL SORT ARRAYLIST IN ASCENDING ORDER
+        //TO SORT THE ARRAYLIST IN DESCENDING ORDER WE CAN USE
+        //Collections .sort(listname,Collections.reverseOrder());
+                    }
+
 }
