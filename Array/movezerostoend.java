@@ -1,3 +1,5 @@
+
+
 public class movezerostoend {
     public static void moverzeros(int arr[]) {
         int nonzeropos = 0;

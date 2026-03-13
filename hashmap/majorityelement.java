@@ -1,5 +1,6 @@
 import java.util.*;
 
+
 public class majorityelement {
     public static void majority(int nums[]) {
         HashMap<Integer, Integer> map = new HashMap<>();
